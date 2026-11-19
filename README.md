@@ -4,7 +4,7 @@ Application de suivi et de gestion des tickets de support construite avec Vue 3,
 
 ## Identité
 
-- Nom et prénom : à compléter
+- Nom et prénom : Ellough Aymen
 - Dépôt GitHub : https://github.com/aymen000777/tp2-tickets-maintenance-aymen000777
 
 ## Prérequis et installation
