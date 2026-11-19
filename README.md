@@ -5,7 +5,7 @@ Application de suivi et de gestion des tickets de support construite avec Vue 3,
 ## Identité
 
 - Nom et prénom : à compléter
-- Dépôt GitHub : à compléter
+- Dépôt GitHub : https://github.com/aymen000777/tp2-tickets-maintenance-aymen000777
 
 ## Prérequis et installation
 
@@ -13,7 +13,6 @@ Prérequis : Node.js 22.18+ (ou 24.12+) et npm.
 
 ```sh
 npm install
-npm install vue-router
 ```
 
 ## Lancement
@@ -47,7 +46,7 @@ Ouvrir l’adresse locale affichée par Vite, puis accéder à `/tickets`. L’A
 
 ## Captures d’écran
 
-Enregistrer les captures de démonstration dans `captures/` sous ces noms :
+Les sept captures demandées sont déjà disponibles dans le dossier `captures/` :
 
 1. `01-creation-ticket.png` — formulaire de création renseigné.
 2. `02-ticket-dans-la-liste.png` — ticket créé visible dans la liste.
@@ -66,4 +65,4 @@ Enregistrer les captures de démonstration dans `captures/` sous ces noms :
 
 ## Difficultés rencontrées
 
-À compléter avec les difficultés rencontrées pendant la réalisation.
+À compléter avec les difficultés réellement rencontrées pendant la réalisation.
